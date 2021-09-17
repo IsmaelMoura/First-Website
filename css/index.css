@@ -1,0 +1,173 @@
+@charset "UTF-8";
+/* fontes */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400&display=swap');
+
+body{
+     background: rgb(21,67,96);
+     background: linear-gradient(180deg, rgba(21,67,96,1) 0%, rgba(0,151,149,1) 100%);
+}
+
+#interface{
+     background-color: #e2e2e2;
+     width: 1300px;
+     margin: -8px auto 0px auto;
+}
+
+.logo{
+     margin-top: 5px;
+}
+
+.topo{
+     background-color: #154360;
+     height: 100px;
+}
+
+.menu{
+     width: 500px;
+     display: block;
+     position: absolute;
+     top: 60px;
+     margin-left: 460px;
+}
+
+.menu ul{
+     text-decoration: none;
+     list-style: none;
+     font-family: 'Bebas Neue', times;
+     font-size: 1.3em;
+     margin: 0px;
+     padding: 0px;
+}
+
+.menu li{
+     float: left;
+}
+
+.menu a{
+     text-decoration: none;
+     color: #e4e4e4;
+     padding: 5px 30px;
+     margin: 0px;
+}
+
+.menu a:hover{
+     color: #969696;
+
+}
+
+.login a{
+     display: block;
+     position: absolute;
+     text-decoration: none;
+     font-family: 'Bebas Neue', times;
+     font-size: 1.4em;
+     margin: 0px;
+     color: #e4e4e4;
+     margin-left: 1160px;
+     top: 35px;
+}
+
+.login a:hover{
+     color: #969696;
+}
+
+/* banner */
+
+.banner{
+     position: absolute;
+     display: inline-block;
+     margin-left: 155px;
+     margin-top: 20px;     
+}
+
+.banner img{
+     position: absolute;
+     transition-property: opacity;
+     transition-duration: 1.5s;
+     transition-timing-function: cubic-bezier(0.785, 0.135, 0.15, 0.86);
+}
+
+#image1, #image2:hover{
+     opacity: 1;
+}
+
+#image1:hover, #image2{
+     opacity: 0;
+}
+
+/* Sobre nós */
+
+#info{
+     margin-top: 240px;
+     margin-left: 160px;
+     color: #131313;
+}
+
+#info h2{
+     font-size: 2.5em;
+     font-weight: 400;
+     font-family: 'Oswald', 'Times New Roman';
+}
+
+#info p{
+     font-weight: 300;
+     font-family: 'Oswald', 'Times New Roman';
+     font-size: 1.4em;
+     width: 700px;
+}
+
+#logoinf{
+     display: block;
+     float: right;
+     margin-top: 260px;
+     margin-right: 145px;
+}
+
+/* Link de Histórias */
+
+#links{
+     margin-left: 160px;
+     width: 1000px;
+     font-family: 'Oswald', 'Times New Roman';
+     border-top: 3px solid #008e97;
+     border-bottom: 3px solid #f58220;
+}
+
+#links a{
+     text-decoration: none;
+     color: #131313;
+}
+
+#links h2{
+     font-weight: 400;
+     font-size: 1.5em;
+}
+
+#links p{
+     font-weight: 300;
+     font-size: 1.25em;
+}
+
+/* rodapé */
+
+.rodape{
+     background: #3d3d3d;
+     width: 1300px;
+     font-family: 'Bebas Neue', times;
+     font-weight: 300;
+     font-size: 1.3em;
+     color: #dfdfdf;
+     text-align: center;
+}
+
+.icons img{
+     margin-top: 10px;
+     border-bottom: 2px solid #dfdfdf;
+}
+
+.icons a{
+     text-decoration: none;
+     margin: 10px;
+     
+}
