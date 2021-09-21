@@ -3,11 +3,24 @@
 ![GitHub](https://img.shields.io/github/license/IsmaelMoura/HQ-Website?style=for-the-badge)
 
 # Site de HQ - Ismael de Sousa
-Primeiro projeto de HTML e CSS feito no Senac Tatuapé.
+Site de histórias sobre HQ's e Mangás 
 
-Website de HQ construido para o curso de Técnico em Informática.
+Site fictício. Apenas para fins educativos do curso Técnico em Informática do Senac Tatuapé
 
-<p>----------------------------------------------------------------</p>
+
+## Autor
+Ismael de Sousa
+
+## Construído com
+* HTML5
+* CSS3
+* WOW Slider
+
+## Licença
+Este projeto está lecenciado MIT - Consulte o arquivo LICENSE.md para detalhes.
+<br><br>
+<p>===============================</p>
+<br>
 <div>
     Index
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
