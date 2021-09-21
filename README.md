@@ -22,7 +22,7 @@ Este projeto está licenciado sob a licença MIT - Consulte o arquivo LICENSE.md
 <p>===============================</p>
 <br>
 <div>
-    Index
+    index.html
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
             src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
@@ -31,7 +31,7 @@ Este projeto está licenciado sob a licença MIT - Consulte o arquivo LICENSE.md
 </div>
 
 <div>
-    hq-marvel
+    hq-marvel.html
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
             src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
@@ -40,7 +40,7 @@ Este projeto está licenciado sob a licença MIT - Consulte o arquivo LICENSE.md
 </div>
 
 <div>
-    manga
+    manga.html
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
             src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
@@ -49,7 +49,7 @@ Este projeto está licenciado sob a licença MIT - Consulte o arquivo LICENSE.md
 </div>
 
 <div>
-    publicar
+    publicar.html
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
             src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
@@ -58,7 +58,7 @@ Este projeto está licenciado sob a licença MIT - Consulte o arquivo LICENSE.md
 </div>
 
 <div>
-    login
+    login.html
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
             src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
@@ -67,7 +67,7 @@ Este projeto está licenciado sob a licença MIT - Consulte o arquivo LICENSE.md
 </div>
 
 <div>
-    jujutsu
+    jujutsu.html
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
             src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
@@ -76,7 +76,7 @@ Este projeto está licenciado sob a licença MIT - Consulte o arquivo LICENSE.md
 </div>
 
 <div>
-    drstrange
+    drstrange.html
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
             src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
