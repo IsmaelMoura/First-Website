@@ -17,7 +17,7 @@ Ismael de Sousa
 * WOW Slider
 
 ## Licença
-Este projeto está lecenciado MIT - Consulte o arquivo LICENSE.md para detalhes.
+Este projeto está licenciado sob a licença MIT - Consulte o arquivo LICENSE.md para detalhes.
 <br><br>
 <p>===============================</p>
 <br>
