@@ -2,9 +2,9 @@
 /* fontes */
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 body{
-     background: rgb(21,67,96);
      background: linear-gradient(180deg, rgba(21,67,96,1) 0%, rgba(0,151,149,1) 100%);
 }
 
@@ -105,7 +105,7 @@ body{
 }
 
 #info h2{
-     font-size: 2.5em;
+     font-size: 3.5em;
      font-weight: 400;
      font-family: 'Oswald', 'Times New Roman';
 }
@@ -159,15 +159,21 @@ body{
      font-size: 1.3em;
      color: #dfdfdf;
      text-align: center;
+     margin-top: 30px;
+}
+
+.rodape p{
+     margin: 0px;
+     padding: 0px;
 }
 
 .icons img{
      margin-top: 10px;
+     padding-bottom: 2px;
      border-bottom: 2px solid #dfdfdf;
 }
 
 .icons a{
      text-decoration: none;
      margin: 10px;
-     
 }
