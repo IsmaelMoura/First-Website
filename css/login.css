@@ -1,0 +1,92 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+/* font-family: 'Poppins', Times New Roman; */
+
+.logo{
+    text-align: center;
+}
+
+#interface{
+    background: linear-gradient(180deg, #154360, #009795);
+}
+
+
+form{
+    max-width: 700px;
+    background: linear-gradient(-135deg, #3eb9c2, #3c469e);
+    font-family: 'Poppins', 'Times New Roman';
+    margin: 50px 0px 50px 300px;
+    border-radius: 10px;
+    color: #ffffff;
+}
+
+.titulo{
+    margin-left: 20px;
+    padding-top: 10px;
+    border-bottom: 3px solid #CCC;
+    width: 300px;
+    font-size: 40px;
+}
+
+.campo{
+    text-align: left;
+    font-size: 20px;
+    margin: 0 0 25px 0px;
+    padding-left: 90px;
+}
+
+
+.campo input{
+    display: flex;
+    align-content: center;
+    height: 35px;
+    width: 500px;
+    border-radius: 5px;
+    border: 0px;
+    text-align: left;
+    margin-right: 20px;
+}
+
+.campo input::placeholder{
+    padding-left: 5px;
+}
+
+.titulo-genero{
+    margin-left: 20px;
+    padding-top: 10px;
+    border-bottom: 3px solid #CCC;
+    font-size: 30px;
+}
+
+.categoria{
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+.categoria label{
+    border-bottom: 1.7px solid #CCC;
+    padding: 0 20px 0px 5px;
+}
+
+.categoria input{
+    margin-left: 20px;
+}
+
+.botao input{
+    height: 50px;
+    width: 700px;
+    border-radius: 10px;
+    border: 0px;
+    background: linear-gradient(135deg, #f58220,#f1a15b);
+    font-size: 17px;
+    letter-spacing: 0.2em;
+    font-weight: 600;
+    color: #FFF;
+    cursor: pointer;
+}
+
+.botao input:hover{
+    background: linear-gradient(-135deg, #f58220,#f1a15b);
+}
