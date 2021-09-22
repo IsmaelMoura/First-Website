@@ -31,7 +31,7 @@ Este projeto está licenciado sob a licença MIT - Consulte o arquivo LICENSE.md
 </div>
 
 <div>
-    hq-marvel.html
+    manga.html
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
             src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
@@ -40,7 +40,7 @@ Este projeto está licenciado sob a licença MIT - Consulte o arquivo LICENSE.md
 </div>
 
 <div>
-    manga.html
+    hq-marvel.html
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
             src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
