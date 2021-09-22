@@ -1,0 +1,78 @@
+@charset "UTF-8";
+
+.conteudo{
+    margin-top: 450px;
+    font-family: 'Oswald', 'Times New Roman';
+    width: 900px;
+    margin-left: 205px;
+}
+
+.titulo{
+    font-weight: 400;
+    font-size: 3.2em;
+    border-bottom: 3px solid #3eb9c2;
+    text-align: center;
+}
+
+.subtitulo h2{
+    font-weight: 300;
+    font-size: 1.5em;
+}
+
+.video{
+    text-align: center;
+    margin: 25px;
+}
+
+#titulo-links h2{
+    font-size: 1.8em;
+    color: #dfdfdf;
+    text-align: center;
+    background: #3c469e;
+    border-radius: 5px;
+    width: 305px;
+}
+
+/* Links */
+
+.links{
+    font-family: 'Oswald', 'Times New Roman';
+    border-top: 3px solid #008e97;
+    border-bottom: 3px solid #f58220;
+}
+
+.links a{
+    text-decoration: none;
+    color: #131313;
+}
+
+.links h2{
+    font-weight: 400;
+    font-size: 1.5em;
+}
+
+.links p{
+    font-weight: 300;
+    font-size: 1.25em;
+}
+
+/*          PAGINA HQ             */
+
+.conteudo-hq{
+    margin-top: 350px;
+    font-family: 'Oswald', 'Times New Roman';
+    width: 1000px;
+    margin-left: 155px;
+}
+
+.imagens{
+    border-bottom: 7px solid #f58220;
+    border-top: 7px solid #f58220;
+    border-radius: 7px;
+    padding-top: 20px;
+    text-align: center;
+}
+.imagens img{
+    border: 5px solid rgb(182, 182, 182);
+    border-radius: 5px;
+}
