@@ -73,6 +73,7 @@
     text-align: center;
 }
 .imagens img{
-    border: 5px solid rgb(182, 182, 182);
+    border: 5px solid #3c469e;
+    padding: 5px;
     border-radius: 5px;
 }
