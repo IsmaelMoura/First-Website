@@ -5,13 +5,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 body{
+     max-width: 1300px;
+     margin: 0 auto;
      background: linear-gradient(180deg, rgba(21,67,96,1) 0%, rgba(0,151,149,1) 100%);
 }
 
 #interface{
      background-color: #e2e2e2;
      width: 1300px;
-     margin: -8px auto 0px auto;
 }
 
 .logo{
@@ -53,7 +54,6 @@ body{
 
 .menu a:hover{
      color: #969696;
-
 }
 
 .login a{
@@ -75,6 +75,7 @@ body{
 /* banner */
 
 .banner{
+     width: 1145px;
      position: absolute;
      display: inline-block;
      margin-left: 155px;
