@@ -19,8 +19,8 @@ Ismael de Sousa
 ## Licença
 Este projeto está licenciado sob a licença MIT - Consulte o arquivo LICENSE.md para detalhes.
 <br><br>
-<p>===============================</p>
-<br>
+
+## Certificados CSS 
 <div>
     index.html
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
